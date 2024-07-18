@@ -20,4 +20,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## To Make Modifications to the Code base
+
+1. Create a folder under app/ directory. You will need viewall and insurancequote then create directories in that name.
+2. You will page.tsx for sure. If you want to change the layout of this component then you will need layout.tsx.
+3. All you API calls will be part of the page.tsx
+   
