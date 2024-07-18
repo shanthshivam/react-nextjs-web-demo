@@ -4,9 +4,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Install nodejs
 
-Then, do a "npm install" 
+Download this code and creae a new directory. 
 
-run the development server:
+Then, do a "npm install" in the same directory. 
+
+To run the development server:
 
 ```bash
 npm run dev
